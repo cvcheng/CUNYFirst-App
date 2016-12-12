@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CUNYFirst</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_classes">Classes</string>
+    <string name="rememberMe">Remember me</string>
+    <string name="login">Login</string>
+    <string name="forgotPwd"><a href="https://impweb.cuny.edu/selfservice/forgotpwd/start.action">Forgot Password?</a></string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="upcomingDates">Upcoming Dates</string>
+    <string name="selectTerm">Select Term:</string>
+    <string name="title_activity_info">Info</string>
+    <string name="identification">Identification</string>
+    <string name="balance">Balance</string>
+    <string name="GPA">GPA</string>
+    <string name="title_activity_course_history">CourseHistory</string>
+    <string name="createdBy">Created by Chi Vein Cheng</string>
+</resources>
